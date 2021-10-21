@@ -1,0 +1,41 @@
+div.news table {
+margin-left:115px;
+width:380px;
+}
+
+div.news div {
+width:563px;
+}
+
+.td3 {
+width:100%;
+}
+
+td.td1 {
+border-width:0;
+margin:0;
+padding:0;
+width:196px;
+}
+
+button.btn.primary {
+float:right;
+margin-bottom:24px;
+margin-top:25px;
+}
+
+table {
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+background-color:#e3e3e3;
+border-radius:10px;
+margin-bottom:16px;
+margin-left:87px;
+padding-left:29px;
+width:453px;
+}
+
+td.td1 a img {
+margin-left:8px;
+margin-top:5px;
+}

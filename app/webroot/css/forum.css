@@ -1,0 +1,30 @@
+table {
+margin-bottom:10px;
+width:538px;
+}
+
+table td {
+border-width:0;
+margin:0;
+padding:0;
+}
+
+.well {
+margin-top:17px;
+width:552px;
+}
+
+div.well h1 {
+font-size:20px;
+}
+
+td.td1 a {
+text-decoration:underline;
+}
+
+span.naming {
+display:block;
+float:left;
+margin-left:0;
+margin-top:3px;
+}

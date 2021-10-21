@@ -1,0 +1,70 @@
+div.name {
+color:#085782;
+font-variant:small-caps;
+font-weight:700;
+margin-left:91px;
+margin-top:-91px;
+width:85px;
+}
+
+div.cont {
+margin-left:182px;
+margin-top:-29px;
+}
+
+div.status {
+font-weight:700;
+margin-left:91px;
+padding-top:1px;
+width:77px;
+}
+
+.taby {
+border-width:0;
+margin:15px 0 0 88px;
+padding:0;
+width:465px;
+}
+
+.taby tr {
+border-width:0;
+margin:0;
+padding:0;
+}
+
+.taby td {
+margin:0;
+padding:3px;
+}
+
+.mod {
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+background-color:#dbdbdb;
+border-radius:10px;
+height:105px;
+margin-bottom:13px;
+margin-left:-348px;
+margin-top:158px;
+}
+
+.gr {
+font-weight:700;
+margin:0;
+padding:0;
+}
+
+div.pic img {
+margin-left:4px;
+margin-top:8px;
+}
+
+tr {
+margin:0;
+padding:0;
+}
+
+td {
+margin:0;
+padding:0;
+}

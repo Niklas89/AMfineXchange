@@ -1,0 +1,281 @@
+[20-Dec-2011 16:01:31] PHP Parse error:  syntax error, unexpected T_STRING in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Layouts/default.ctp on line 1
+[20-Dec-2011 16:05:09] PHP Parse error:  syntax error, unexpected T_STRING in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Layouts/default.ctp on line 1
+[20-Dec-2011 16:07:40] PHP Parse error:  syntax error, unexpected T_STRING in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Layouts/admin.ctp on line 1
+[20-Dec-2011 18:03:22] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 162
+[20-Dec-2011 18:28:52] PHP Fatal error:  Call to a member function paginate() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/GlobalController.php on line 10
+[20-Dec-2011 18:29:14] PHP Fatal error:  Call to a member function paginate() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/GlobalController.php on line 10
+[20-Dec-2011 19:00:44] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/MediasController.php on line 35
+[20-Dec-2011 19:04:04] PHP Fatal error:  Call to undefined function  data() in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/MediasController.php on line 36
+[20-Dec-2011 19:04:59] PHP Fatal error:  Call to undefined function  data() in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/MediasController.php on line 36
+[20-Dec-2011 19:05:12] PHP Fatal error:  Call to undefined function  data() in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/MediasController.php on line 36
+[20-Dec-2011 19:23:45] PHP Parse error:  syntax error, unexpected ':' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/MediasController.php on line 29
+[20-Dec-2011 19:23:46] PHP Parse error:  syntax error, unexpected ':' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/MediasController.php on line 29
+[20-Dec-2011 19:49:36] PHP Parse error:  syntax error, unexpected '<' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Pages/admin_edit.ctp on line 115
+[20-Dec-2011 19:49:37] PHP Parse error:  syntax error, unexpected '<' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Pages/admin_edit.ctp on line 115
+[20-Dec-2011 20:16:53] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Pages/admin_edit.ctp on line 116
+[21-Dec-2011 03:42:32] PHP Parse error:  syntax error, unexpected T_STRING in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/login.ctp on line 25
+[21-Dec-2011 14:38:12] PHP Fatal error:  Call to a member function user() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/edit.ctp on line 20
+[21-Dec-2011 14:38:13] PHP Fatal error:  Call to a member function user() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/edit.ctp on line 20
+[21-Dec-2011 15:06:16] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Contact.php on line 8
+[21-Dec-2011 15:06:18] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Contact.php on line 8
+[21-Dec-2011 15:06:55] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_FUNCTION in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Contact.php on line 39
+[21-Dec-2011 15:06:56] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_FUNCTION in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Contact.php on line 39
+[21-Dec-2011 15:07:11] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Contact.php on line 57
+[21-Dec-2011 15:09:46] PHP Fatal error:  Call to a member function subject() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/ContactsController.php on line 26
+[21-Dec-2011 15:13:19] PHP Fatal error:  Call to a member function to() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/ContactsController.php on line 24
+[22-Dec-2011 05:43:24] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 165
+[22-Dec-2011 05:44:51] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 114
+[22-Dec-2011 05:44:55] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 114
+[22-Dec-2011 11:38:14] PHP Fatal error:  Cannot redeclare ForumsController::index() in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/ForumsController.php on line 10
+[22-Dec-2011 14:43:04] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 178
+[22-Dec-2011 14:45:08] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 46
+[22-Dec-2011 14:45:33] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 46
+[22-Dec-2011 14:46:02] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 46
+[22-Dec-2011 15:18:39] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 196
+[22-Dec-2011 15:33:26] PHP Parse error:  syntax error, unexpected T_STRING in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Global/index.ctp on line 45
+[22-Dec-2011 15:33:27] PHP Parse error:  syntax error, unexpected T_STRING in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Global/index.ctp on line 45
+[22-Dec-2011 15:43:37] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Global/index.ctp on line 59
+[22-Dec-2011 15:52:51] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 8
+[22-Dec-2011 15:52:53] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 8
+[22-Dec-2011 15:53:04] PHP Parse error:  syntax error, unexpected T_VAR, expecting T_VARIABLE in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 8
+[22-Dec-2011 16:42:32] PHP Parse error:  syntax error, unexpected T_ECHO, expecting T_FUNCTION in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Comment.php on line 3
+[22-Dec-2011 16:42:58] PHP Parse error:  syntax error, unexpected T_ECHO, expecting T_FUNCTION in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Comment.php on line 3
+[22-Dec-2011 16:51:56] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 189
+[22-Dec-2011 16:52:18] PHP Fatal error:  Cannot use string offset as an array in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 95
+[22-Dec-2011 16:52:19] PHP Fatal error:  Cannot use string offset as an array in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 95
+[22-Dec-2011 16:52:21] PHP Fatal error:  Cannot use string offset as an array in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 95
+[22-Dec-2011 16:57:13] PHP Fatal error:  Cannot use string offset as an array in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 95
+[22-Dec-2011 16:57:15] PHP Fatal error:  Cannot use string offset as an array in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 95
+[22-Dec-2011 16:57:37] PHP Fatal error:  Cannot use string offset as an array in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 95
+[22-Dec-2011 16:58:07] PHP Fatal error:  Cannot use string offset as an array in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 95
+[22-Dec-2011 16:58:32] PHP Fatal error:  Cannot use string offset as an array in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 95
+[22-Dec-2011 16:58:58] PHP Fatal error:  Cannot use string offset as an array in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 94
+[22-Dec-2011 16:58:59] PHP Fatal error:  Cannot use string offset as an array in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 94
+[22-Dec-2011 16:59:00] PHP Fatal error:  Cannot use string offset as an array in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 94
+[22-Dec-2011 16:59:01] PHP Fatal error:  Cannot use string offset as an array in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 94
+[22-Dec-2011 16:59:27] PHP Fatal error:  Cannot use string offset as an array in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 96
+[22-Dec-2011 16:59:29] PHP Fatal error:  Cannot use string offset as an array in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 96
+[22-Dec-2011 17:00:21] PHP Fatal error:  Cannot use string offset as an array in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Page.php on line 96
+[22-Dec-2011 17:14:29] PHP Fatal error:  Function name must be a string in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[22-Dec-2011 17:14:37] PHP Fatal error:  Function name must be a string in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[22-Dec-2011 18:39:11] PHP Fatal error:  Call to a member function user() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/actionblock.ctp on line 1
+[22-Dec-2011 18:39:48] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 26
+[22-Dec-2011 18:39:51] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 26
+[22-Dec-2011 18:42:35] PHP Parse error:  syntax error, unexpected '[' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/actionblock.ctp on line 2
+[22-Dec-2011 18:42:37] PHP Parse error:  syntax error, unexpected '[' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/actionblock.ctp on line 2
+[22-Dec-2011 19:06:31] PHP Parse error:  syntax error, unexpected '$', expecting '&' or T_VARIABLE in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 216
+[22-Dec-2011 19:06:40] PHP Parse error:  syntax error, unexpected '$', expecting '&' or T_VARIABLE in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 216
+[22-Dec-2011 19:06:42] PHP Parse error:  syntax error, unexpected '$', expecting '&' or T_VARIABLE in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 216
+[22-Dec-2011 19:06:43] PHP Parse error:  syntax error, unexpected '$', expecting '&' or T_VARIABLE in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 216
+[22-Dec-2011 19:08:19] PHP Parse error:  syntax error, unexpected '<' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/actionblock.ctp on line 11
+[22-Dec-2011 19:08:26] PHP Parse error:  syntax error, unexpected '<' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/actionblock.ctp on line 11
+[22-Dec-2011 19:19:50] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/edit.ctp on line 59
+[22-Dec-2011 19:21:19] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/edit.ctp on line 59
+[22-Dec-2011 19:21:47] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/edit.ctp on line 59
+[22-Dec-2011 19:21:50] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/edit.ctp on line 59
+[22-Dec-2011 19:29:08] PHP Fatal error:  Call to a member function findById() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 24
+[22-Dec-2011 19:29:09] PHP Fatal error:  Call to a member function findById() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 24
+[22-Dec-2011 19:29:15] PHP Fatal error:  Call to a member function findById() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 24
+[22-Dec-2011 19:29:18] PHP Fatal error:  Call to a member function findById() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 24
+[22-Dec-2011 19:29:22] PHP Fatal error:  Call to a member function findById() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 24
+[22-Dec-2011 19:42:36] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/edit.ctp on line 56
+[22-Dec-2011 19:42:36] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/edit.ctp on line 56
+[22-Dec-2011 20:01:33] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/left.ctp on line 5
+[22-Dec-2011 20:10:16] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Layouts/default.ctp on line 2
+[22-Dec-2011 20:14:11] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/left.ctp on line 6
+[22-Dec-2011 20:14:13] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/left.ctp on line 6
+[22-Dec-2011 20:26:58] PHP Parse error:  syntax error, unexpected ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 266
+[23-Dec-2011 08:06:10] PHP Parse error:  syntax error, unexpected ',' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 291
+[23-Dec-2011 08:33:40] PHP Warning:  Unterminated comment starting line 189 in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 189
+[23-Dec-2011 08:33:40] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 189
+[23-Dec-2011 08:34:33] PHP Fatal error:  Call to undefined function  int() in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 33
+[23-Dec-2011 08:34:34] PHP Fatal error:  Call to undefined function  int() in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 33
+[23-Dec-2011 08:34:57] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[23-Dec-2011 08:34:58] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[23-Dec-2011 08:34:59] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[23-Dec-2011 08:34:59] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[23-Dec-2011 08:35:00] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[23-Dec-2011 08:35:01] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[23-Dec-2011 08:36:04] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[23-Dec-2011 08:36:15] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[23-Dec-2011 08:36:41] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[23-Dec-2011 08:36:42] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[23-Dec-2011 08:36:51] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[23-Dec-2011 08:38:22] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[23-Dec-2011 08:38:23] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[23-Dec-2011 08:38:23] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[23-Dec-2011 08:38:24] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 34
+[23-Dec-2011 10:41:20] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Global/index.ctp on line 81
+[23-Dec-2011 10:41:21] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Global/index.ctp on line 81
+[23-Dec-2011 10:53:35] PHP Fatal error:  Call to a member function flash() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Layouts/default.ctp on line 77
+[23-Dec-2011 10:53:40] PHP Fatal error:  Call to a member function flash() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Layouts/default.ctp on line 77
+[23-Dec-2011 11:14:05] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Global/recherche.ctp on line 66
+[23-Dec-2011 11:58:54] PHP Parse error:  syntax error, unexpected T_CLASS in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Contact.php on line 4
+[23-Dec-2011 15:53:04] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/edit.ctp on line 2
+[23-Dec-2011 15:53:04] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/edit.ctp on line 2
+[23-Dec-2011 16:04:33] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/edit.ctp on line 64
+[23-Dec-2011 16:04:35] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/edit.ctp on line 64
+[23-Dec-2011 16:05:10] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/edit.ctp on line 104
+[23-Dec-2011 16:05:11] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/edit.ctp on line 104
+[23-Dec-2011 16:05:12] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/edit.ctp on line 104
+[23-Dec-2011 16:16:28] PHP Parse error:  syntax error, unexpected ':' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 231
+[23-Dec-2011 16:16:29] PHP Parse error:  syntax error, unexpected ':' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 231
+[23-Dec-2011 16:16:39] PHP Parse error:  syntax error, unexpected ':' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 231
+[23-Dec-2011 17:01:02] PHP Parse error:  syntax error, unexpected '=' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 6
+[23-Dec-2011 17:01:03] PHP Parse error:  syntax error, unexpected '=' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 6
+[23-Dec-2011 17:01:12] PHP Fatal error:  Call to a member function find() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 10
+[23-Dec-2011 18:00:57] PHP Fatal error:  Call to a member function find() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 256
+[23-Dec-2011 18:00:58] PHP Fatal error:  Call to a member function find() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 256
+[23-Dec-2011 18:29:18] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 144
+[04-Jan-2012 04:45:29] PHP Fatal error:  Call to a member function numbers() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/admin_token.ctp on line 55
+[04-Jan-2012 04:56:30] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 464
+[04-Jan-2012 05:01:34] PHP Fatal error:  Call to undefined function  random() in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 488
+[04-Jan-2012 05:01:55] PHP Fatal error:  Call to undefined function  random() in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 488
+[04-Jan-2012 05:19:55] PHP Parse error:  syntax error, unexpected ',' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/admin_token.ctp on line 79
+[04-Jan-2012 05:19:57] PHP Parse error:  syntax error, unexpected ',' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/admin_token.ctp on line 79
+[04-Jan-2012 05:20:25] PHP Fatal error:  Call to a member function prev() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/admin_token.ctp on line 55
+[04-Jan-2012 05:20:26] PHP Fatal error:  Call to a member function prev() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/admin_token.ctp on line 55
+[04-Jan-2012 05:20:27] PHP Fatal error:  Call to a member function prev() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/admin_token.ctp on line 55
+[04-Jan-2012 06:56:37] PHP Fatal error:  Cannot redeclare UsersController::admin_tokensent() in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 529
+[04-Jan-2012 06:56:39] PHP Fatal error:  Cannot redeclare UsersController::admin_tokensent() in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 529
+[04-Jan-2012 07:40:17] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 140
+[04-Jan-2012 08:03:52] PHP Parse error:  syntax error, unexpected '<' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Layouts/default.ctp on line 17
+[04-Jan-2012 08:03:53] PHP Parse error:  syntax error, unexpected '<' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Layouts/default.ctp on line 17
+[04-Jan-2012 08:42:03] PHP Parse error:  syntax error, unexpected '/' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 158
+[04-Jan-2012 08:42:04] PHP Parse error:  syntax error, unexpected '/' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 158
+[04-Jan-2012 08:42:32] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 138
+[04-Jan-2012 08:42:32] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 138
+[04-Jan-2012 08:42:33] PHP Parse error:  syntax error, unexpected '/' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 158
+[04-Jan-2012 08:42:34] PHP Parse error:  syntax error, unexpected '/' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 158
+[04-Jan-2012 08:57:35] PHP Fatal error:  Call to a member function subject() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 162
+[04-Jan-2012 10:08:12] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 348
+[04-Jan-2012 10:08:14] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 348
+[04-Jan-2012 10:08:24] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 348
+[04-Jan-2012 10:29:31] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/topmenu.ctp on line 101
+[04-Jan-2012 10:30:19] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/topmenu.ctp on line 81
+[04-Jan-2012 10:30:56] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/topmenu.ctp on line 101
+[04-Jan-2012 15:47:35] PHP Fatal error:  Call to a member function find() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 61
+[04-Jan-2012 15:47:36] PHP Fatal error:  Call to a member function find() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 61
+[04-Jan-2012 15:47:46] PHP Fatal error:  Call to a member function find() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 61
+[04-Jan-2012 16:33:57] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/membres.ctp on line 16
+[04-Jan-2012 16:34:00] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/membres.ctp on line 16
+[04-Jan-2012 16:42:25] PHP Fatal error:  Can't use method return value in write context in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 351
+[04-Jan-2012 16:42:45] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 199
+[04-Jan-2012 16:42:45] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 199
+[04-Jan-2012 16:52:33] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 124
+[04-Jan-2012 16:55:26] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 395
+[04-Jan-2012 17:33:56] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 401
+[04-Jan-2012 17:33:56] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 401
+[04-Jan-2012 17:37:57] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 118
+[05-Jan-2012 06:02:48] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/infonews.ctp on line 125
+[06-Jan-2012 07:52:09] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 647
+[06-Jan-2012 07:52:11] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 647
+[06-Jan-2012 07:54:09] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 647
+[07-Jan-2012 08:18:55] PHP Fatal error:  Call to a member function user() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/partage.ctp on line 22
+[07-Jan-2012 08:18:57] PHP Fatal error:  Call to a member function user() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/partage.ctp on line 22
+[07-Jan-2012 08:18:58] PHP Fatal error:  Call to a member function user() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/partage.ctp on line 22
+[07-Jan-2012 08:18:59] PHP Fatal error:  Call to a member function user() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/partage.ctp on line 22
+[07-Jan-2012 08:38:01] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 36
+[07-Jan-2012 10:48:41] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Pages/admin_edit.ctp on line 155
+[07-Jan-2012 11:43:28] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Pages/admin_edit.ctp on line 157
+[07-Jan-2012 11:49:20] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Pages/admin_edit.ctp on line 159
+[07-Jan-2012 11:54:20] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Pages/admin_edit.ctp on line 162
+[07-Jan-2012 11:55:26] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Pages/admin_edit.ctp on line 162
+[07-Jan-2012 12:35:09] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 180
+[07-Jan-2012 12:57:38] PHP Parse error:  syntax error, unexpected ':' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 183
+[07-Jan-2012 13:05:30] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 79
+[08-Jan-2012 07:22:48] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 14
+[08-Jan-2012 07:22:50] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 14
+[08-Jan-2012 07:27:52] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Events/admin_edit.ctp on line 25
+[08-Jan-2012 07:27:54] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Events/admin_edit.ctp on line 25
+[08-Jan-2012 07:37:14] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 13
+[08-Jan-2012 07:37:24] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 13
+[08-Jan-2012 07:37:26] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 13
+[08-Jan-2012 07:37:53] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 13
+[08-Jan-2012 07:42:54] PHP Parse error:  syntax error, unexpected ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Events/admin_edit.ctp on line 22
+[08-Jan-2012 07:42:56] PHP Parse error:  syntax error, unexpected ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Events/admin_edit.ctp on line 22
+[08-Jan-2012 10:35:11] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 32
+[08-Jan-2012 10:35:32] PHP Fatal error:  Call to a member function query() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 27
+[08-Jan-2012 10:35:33] PHP Fatal error:  Call to a member function query() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 27
+[08-Jan-2012 10:38:05] PHP Parse error:  syntax error, unexpected '}' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 31
+[08-Jan-2012 10:45:52] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/infonews.ctp on line 171
+[08-Jan-2012 10:49:53] PHP Parse error:  syntax error, unexpected '?' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/infonews.ctp on line 273
+[08-Jan-2012 10:49:56] PHP Parse error:  syntax error, unexpected '?' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/infonews.ctp on line 273
+[08-Jan-2012 10:50:21] PHP Parse error:  syntax error, unexpected '?' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/infonews.ctp on line 273
+[08-Jan-2012 10:50:23] PHP Parse error:  syntax error, unexpected '?' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/infonews.ctp on line 273
+[08-Jan-2012 10:51:30] PHP Parse error:  syntax error, unexpected '?' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/infonews.ctp on line 273
+[08-Jan-2012 10:51:32] PHP Parse error:  syntax error, unexpected '?' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/infonews.ctp on line 273
+[08-Jan-2012 11:32:26] PHP Fatal error:  Call to a member function formattext() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/sidebar.ctp on line 94
+[08-Jan-2012 11:36:23] PHP Fatal error:  Class 'AppController' not found in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 3
+[08-Jan-2012 12:14:51] PHP Parse error:  syntax error, unexpected ',' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 34
+[08-Jan-2012 12:32:43] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 681
+[08-Jan-2012 12:36:09] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 322
+[08-Jan-2012 13:27:31] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/GlobalController.php on line 36
+[08-Jan-2012 13:27:40] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/GlobalController.php on line 96
+[08-Jan-2012 14:04:04] PHP Parse error:  syntax error, unexpected '=' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 33
+[08-Jan-2012 14:04:05] PHP Parse error:  syntax error, unexpected '=' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 33
+[08-Jan-2012 14:07:40] PHP Parse error:  syntax error, unexpected T_ISSET, expecting T_STRING or T_VARIABLE or '$' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 35
+[08-Jan-2012 14:07:42] PHP Parse error:  syntax error, unexpected T_ISSET, expecting T_STRING or T_VARIABLE or '$' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 35
+[08-Jan-2012 14:08:03] PHP Fatal error:  Class 'AppController' not found in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 3
+[08-Jan-2012 14:59:48] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 29
+[08-Jan-2012 14:59:49] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 29
+[09-Jan-2012 04:36:51] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 133
+[09-Jan-2012 05:30:17] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 14
+[09-Jan-2012 05:30:18] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 14
+[09-Jan-2012 05:53:14] PHP Parse error:  syntax error, unexpected T_EXIT, expecting T_FUNCTION in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Eventcomment.php on line 14
+[09-Jan-2012 05:53:16] PHP Parse error:  syntax error, unexpected T_EXIT, expecting T_FUNCTION in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Eventcomment.php on line 14
+[09-Jan-2012 05:53:25] PHP Fatal error:  Call to a member function formattext() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/sidebar.ctp on line 94
+[09-Jan-2012 05:55:00] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Events/show.ctp on line 119
+[09-Jan-2012 06:02:16] PHP Fatal error:  Call to a member function save() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 59
+[09-Jan-2012 06:09:12] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Participation.php on line 20
+[09-Jan-2012 06:09:31] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Participation.php on line 20
+[09-Jan-2012 06:09:32] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Participation.php on line 20
+[09-Jan-2012 06:09:33] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Participation.php on line 20
+[09-Jan-2012 06:09:34] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/Participation.php on line 20
+[09-Jan-2012 06:16:51] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 39
+[09-Jan-2012 06:16:52] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 39
+[09-Jan-2012 06:37:04] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 154
+[09-Jan-2012 06:37:06] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 154
+[09-Jan-2012 06:55:22] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 167
+[09-Jan-2012 07:02:26] PHP Fatal error:  Class 'AppController' not found in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 3
+[09-Jan-2012 07:03:32] PHP Fatal error:  Class 'AppController' not found in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 3
+[09-Jan-2012 07:04:49] PHP Fatal error:  Call to a member function findById() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 36
+[09-Jan-2012 07:04:54] PHP Fatal error:  Call to a member function findById() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 36
+[09-Jan-2012 10:46:10] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/admin_edit.ctp on line 36
+[09-Jan-2012 10:46:11] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/admin_edit.ctp on line 36
+[09-Jan-2012 10:46:12] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/admin_edit.ctp on line 36
+[09-Jan-2012 13:57:46] PHP Parse error:  syntax error, unexpected '?' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Pages/admin_edit.ctp on line 230
+[10-Jan-2012 07:54:19] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/topmenu.ctp on line 143
+[10-Jan-2012 07:54:22] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/topmenu.ctp on line 143
+[10-Jan-2012 07:54:25] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/topmenu.ctp on line 143
+[12-Jan-2012 17:13:39] PHP Parse error:  syntax error, unexpected T_PUBLIC, expecting ',' or ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/User.php on line 39
+[12-Jan-2012 17:13:40] PHP Parse error:  syntax error, unexpected T_PUBLIC, expecting ',' or ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/User.php on line 39
+[12-Jan-2012 17:13:41] PHP Parse error:  syntax error, unexpected T_PUBLIC, expecting ',' or ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Model/User.php on line 39
+[12-Jan-2012 17:23:39] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/topmenu.ctp on line 97
+[12-Jan-2012 17:27:40] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 126
+[12-Jan-2012 17:27:40] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 126
+[12-Jan-2012 18:44:54] PHP Parse error:  syntax error, unexpected ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/GlobalController.php on line 17
+[12-Jan-2012 18:44:55] PHP Parse error:  syntax error, unexpected ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/GlobalController.php on line 17
+[14-Jan-2012 17:08:29] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/sidebar.ctp on line 104
+[14-Jan-2012 18:38:20] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/infonews.ctp on line 263
+[14-Jan-2012 19:55:23] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 143
+[14-Jan-2012 19:59:25] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 138
+[14-Jan-2012 19:59:41] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/AppController.php on line 139
+[14-Jan-2012 20:12:28] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/sidebar.ctp on line 135
+[14-Jan-2012 20:17:28] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Elements/sidebar.ctp on line 116
+[14-Jan-2012 21:15:09] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/EventsController.php on line 126
+[15-Jan-2012 08:30:01] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/drakroot/public_html/ralphbrandosandbox.com/app/Config/core.php on line 74
+[15-Jan-2012 08:30:01] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Config/core.php on line 74
+[15-Jan-2012 12:21:52] PHP Fatal error:  Call to a member function subject() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 69
+[15-Jan-2012 12:22:07] PHP Fatal error:  Call to a member function subject() on a non-object in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/UsersController.php on line 69
+[16-Jan-2012 07:29:49] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/GlobalController.php on line 133
+[16-Jan-2012 07:29:50] PHP Parse error:  syntax error, unexpected ';' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/GlobalController.php on line 133
+[16-Jan-2012 07:42:25] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 161
+[16-Jan-2012 07:42:25] PHP Parse error:  syntax error, unexpected $end in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/PagesController.php on line 161
+[16-Jan-2012 09:42:34] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/Controller/GlobalController.php on line 107
+[17-Jan-2012 08:02:44] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Global/index.ctp on line 102
+[17-Jan-2012 08:02:44] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Global/index.ctp on line 102
+[17-Jan-2012 08:09:23] PHP Parse error:  syntax error, unexpected ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Global/index.ctp on line 102
+[17-Jan-2012 08:09:24] PHP Parse error:  syntax error, unexpected ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Global/index.ctp on line 102
+[17-Jan-2012 08:09:35] PHP Parse error:  syntax error, unexpected ')' in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Global/index.ctp on line 102
+[17-Jan-2012 17:41:44] PHP Parse error:  syntax error, unexpected T_VAR in /home/drakroot/public_html/ralphbrandosandbox.com/app/View/Users/js.ctp on line 75

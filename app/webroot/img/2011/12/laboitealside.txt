@@ -1,0 +1,8 @@
+fond figé
+filet bleu transparent
+dégradé du slideshow sur fond 2 image/png
+un petit effet sur la box contact a droite
+recent work 4 ligne de 3.
+les petites image client un effet hover color defilent.
+la box about the studeo tt la grosse boite bleu en transparence avec l'arriere
+vire adresse copyright, et coller le footer a en bas pas d'espace pied de page

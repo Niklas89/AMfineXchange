@@ -1,0 +1,31 @@
+div.news table {
+margin-left:115px;
+width:380px;
+}
+
+td.td1 {
+border-style:ridge;
+border-top-width:1px;
+}
+
+button.btn.primary {
+margin-left:273px;
+margin-top:30px;
+}
+
+textarea.zonet {
+height:112px;
+margin-bottom:14px;
+margin-top:14px;
+width:406px;
+}
+
+div.well {
+height:17px;
+}
+
+.bot {
+height:40px;
+margin-left:339px;
+margin-top:-10px;
+}

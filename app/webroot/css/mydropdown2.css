@@ -1,0 +1,64 @@
+#demoSelect1 {
+font-family:"Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+font-size:10px;
+width:150px;
+}
+
+.menuHeader {
+position:absolute;
+}
+
+.menuHeader,.genHeader {
+background:#f7f7f7;
+color:#b3b3b3;
+font-family:Arial, Helvetica, Verdana, sans-serif;
+font-size:10px;
+font-weight:400;
+height:16px;
+overflow:hidden;
+padding-top:3px;
+text-indent:5px;
+text-transform:lowercase;
+width:208px;
+}
+
+.genHeader {
+background:url(../images/profil_saisie_15.gif) no-repeat;
+cursor:pointer;
+float:right;
+font-weight:400;
+height:19px;
+margin-bottom:3px;
+margin-right:72px;
+width:208px;
+}
+
+.advMenuUL {
+background:transparent;
+border-top:0;
+list-style-type:none;
+margin:5px 0 0 160px;
+padding:0 0 5px;
+width:208px;
+}
+
+.advMenuUL LI {
+background:#494949;
+cursor:pointer;
+height:19px;
+margin:0;
+overflow:hidden;
+}
+
+.advMenuUL li.sel,.advMenuUL LI:hover {
+background:#d6d6d6;
+color:#fff;
+}
+
+#mainTable {
+width:760px;
+}
+
+#mainTable td {
+vertical-align:top;
+}

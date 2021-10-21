@@ -1,0 +1,92 @@
+.homeBody {
+    background : url(../img_mobile/bg_mobile.png) no-repeat center;
+    font-family : 'Helvetica Neue',Helvetica,sans-serif;
+    font-size : 15px;
+    letter-spacing : 0.03em;
+    text-align : center;
+}
+
+/* =Page login
+-------------------------------------------------------------- */
+.homeBody .input{
+	margin-bottom : 20px;
+}
+
+/* =Page d'accueil
+-------------------------------------------------------------- */
+.home-btn{
+	margin-top : 30px;
+}
+
+/* =Header / =Footer
+-------------------------------------------------------------- */
+.ui-block-a img{
+	margin-bottom : 20px;
+}
+
+.custom-icons .ui-btn .ui-btn-inner{
+	padding-top : 32px !important;
+}
+
+.ui-icon-custom{
+	background-image : url("../img_mobile/sprites.png") !important;
+}
+
+.home .ui-icon-custom {
+    background-position : 0 0;
+	border-radius : 0;
+	box-shadow : none;
+	margin-left : -12px !important;
+	width : 25px;
+	height : 25px;
+	background-color : transparent;
+}
+
+.profil .ui-icon-custom {
+    background-position : 0 -25px;
+	border-radius : 0;
+	box-shadow : none;
+	margin-left : -12px !important;
+	width : 25px;
+	height : 25px;
+	background-color : transparent;
+}
+
+.contact .ui-icon-custom {
+    background-position : 0 -50px;
+	border-radius : 0;
+	box-shadow : none;
+	margin-left : -12px !important;
+	width : 25px;
+	height : 25px;
+	background-color : transparent;
+}
+
+.other .ui-icon-custom {
+    background-position : 0 -75px;
+	border-radius : 0;
+	box-shadow : none;
+	margin-left : -12px !important;
+	width : 25px;
+	height : 25px;
+	background-color : transparent;
+}
+
+.message{
+	width : 35px !important;
+	height : 35px !important;
+	top : 0.2em !important;
+	border-radius : 20px 20px 20px 20px !important;
+}
+
+.message .ui-icon-custom {
+	background-position : 2px -98px;
+	width : 30px;
+	height : 30px;
+	background-color : transparent;
+	background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-repeat: no-repeat;
+	background-position : 2 -98px;
+}

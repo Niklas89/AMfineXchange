@@ -1,0 +1,45 @@
+div.tickercontainer2 {
+border-width:0;
+margin-bottom:-32px;
+width:758px;
+}
+
+ul.newsticker li a {
+color:#AE2732;
+}
+
+.foots {
+margin-top:34px;
+}
+
+.slid2 {
+margin-top:-27px;
+position:absolute;
+}
+
+div.foot img {
+height:70px;
+margin-left:22px;
+margin-top:6px;
+width:214px;
+}
+
+div.foot {
+margin-left:17px;
+}
+
+.amfine {
+height:42px;
+width:29px;
+}
+
+div.footerRight {
+border-style:none;
+color:#a856a8;
+width:284px;
+}
+
+.vidamfine {
+height:169px;
+width:277px;
+}

@@ -1,0 +1,47 @@
+button.btn.primary {
+margin-left:306px;
+}
+
+.ajouter {
+margin-left:110px;
+}
+
+h1.h1 {
+font-size:21px;
+}
+
+p.dateing {
+font-weight:700;
+}
+
+div.blockevent {
+margin-top:16px;
+}
+
+div.blockevent h2 {
+color:#d60d0d;
+font-size:14px;
+font-variant:small-caps;
+font-weight:700;
+}
+
+.compter {
+float:right;
+margin-bottom:28px;
+margin-top:-68px;
+}
+
+.indate {
+height:25px;
+margin-left:0;
+margin-top:3px;
+}
+
+.inbase {
+height:15px;
+width:471px;
+}
+
+p.organisteur.org2,p.baseline {
+position:absolute;
+}
